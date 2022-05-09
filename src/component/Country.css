@@ -1,0 +1,21 @@
+.App {
+    width: 10%;
+    background-color: aquamarine;
+    padding: 3%;
+    font-size: 1rem;
+    margin: 2%;
+    display: inline-block;
+    border-radius: 30px;
+    border: 2px solid black;
+    box-shadow: 5px 10px black;
+    background-image: url(../Images/images.jpg);
+}
+
+.App:hover {
+    transform: scale(1.1);
+}
+
+.App h4 {
+    font-weight: 900;
+    font-family: 20px;
+}
